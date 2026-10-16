@@ -1,0 +1,6 @@
+{
+  "name": "أكاديمية رقيب",
+  "description": "أكاديمية رقيب للتعليم الثانوي - اليمن: حل جميع المسائل والأسئلة الوزارية بالتفصيل، وبوابة المالك عبر 4 مراحل تحقق",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
